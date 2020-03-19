@@ -33,6 +33,7 @@ MySQL, Sequelize, Node, Express, Handlebars, Body Parser, ESLint, HTML, CSS, Jav
 If we were to develop the application further, our efforts would be pushed towards character "battle" functionality. This would simulate a real D&D RPG which enhances the customer experience. Another potential application development would have been on the form itself. Validations for user entry and prompt messages alerting the user to enter correct information are some ideas we could consider.
 
 <h1>Heroku Link:</h1>
+https://chargenproj.herokuapp.com/
 
 <h1>Contact Us:</h1>
 <li>Ari Horowitz - https://github.com/ariehh1 <br>
